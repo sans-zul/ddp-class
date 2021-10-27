@@ -1,0 +1,10 @@
+perulangan dalam C/C++
+1. While
+2. For
+3. do While
+
+
+3 macam lompatan
+1. break
+2. continue
+3. return

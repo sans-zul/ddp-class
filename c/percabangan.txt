@@ -1,0 +1,12 @@
+Contoh Percabangan Di Bahasa C/Cpp
+1. if
+2. if else
+3. if elseif else
+
+# switch case
+"pengujian suatu variabel kesamaan terhadap value"
+
+3 macam lompatan
+1. break
+2. continue
+3. return

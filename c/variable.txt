@@ -1,0 +1,6 @@
+teknik penamaan variable
+1. dimulai huruf dan tidak boleh dimulai dari angka
+2. boleh menggunakan underscore (_)
+3. dimulai dari huruf dan diikuti oleh karakter lain misalnya angka dan _
+4. nama variable itu case sensitif
+5. variable tidak boleh mengandung space

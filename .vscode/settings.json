@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "stdio.h": "c",
+    "header.h": "c",
+    "define.h": "c",
+    "tabel.h": "c",
+    "admin.h": "c",
+    "exe_admin.h": "c",
+    "procedure.h": "c",
+    "menu.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}

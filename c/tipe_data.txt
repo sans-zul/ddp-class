@@ -1,0 +1,23 @@
+A. Jenis Bilangan Bulat
+    char            -128 s/d 127
+    unsigned char   0 s/d 255
+    int             4 byte (-32.000 s/d 32.000)
+    short           2 byte
+    long            4 byte
+
+B. Floating Point
+    float           4 byte
+    double          8 byte
+    long double     16 byte
+
+C. Boolean
+    bool            (true or false)
+
+
+1 MB = 1000B = 8000 bit
+1 byte = 8 bit
+
+0000 0000 = 0
+0000 0001 = 1
+0000 0010 = 2
+0000 0011 = 3

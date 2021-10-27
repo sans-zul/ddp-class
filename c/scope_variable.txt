@@ -1,0 +1,21 @@
+
+scope variable:
+1. Local variable
+2. Global variable
+3. Argument/parameter variable
+{% comment %} khusus C/C++ {% endcomment %}
+4. define (prepocessor)
+
+* Catatan
+1. variable local tidak bisa diakses terhadap public (root)
+2. variable global bisa diakses oleh child (scope bawahnya)
+3. tahapan load variable
+    a. mencari variable name di areanya (main)
+    b. mencari variable name di parameter main(params)
+    c. mencari variable name di luar/root main
+
+latihan
+1. membuat operasi hitung penjumlahan menggunakan 
+    a. global variable
+    b. local variable
+    c. parameter variable

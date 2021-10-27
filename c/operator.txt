@@ -1,0 +1,56 @@
+operator hitung
+1. + penjumlahan
+2. - pengurangan
+3. * perkalian
+4. / pembagian
+5. % modulo (sisa pembagian)
+6. ++ increment 
+    a++
+    a = a + 1
+
+7. -- decrement
+    a--
+    a = a - 1
+
+operator relasional
+1. == sama dengan
+2. != tidak sama dengan
+3. > lebih dari
+4. < kurang dari
+5. >= lebih dari sama dengan
+6. <= kurang dari sama dengan
+
+operator logika
+1. && and
+    true && true --> true
+    true && false --> false
+    false && true --> false
+    false && false --> false
+2. || or
+    true || true --> true
+    true || false --> true
+    false || true --> true
+    false || false --> false
+3. ! not
+    true ! --> false
+    false ! --> true
+
+
+operator bitwise
+1. & and
+  A = 0011 1100   --> 60
+  B = 0000 1101   --> 13
+___________________ &|^
+  C = 0000 1100   --> 12
+  D = 0011 1101   --> 61
+  E = 0011 0001   --> 49
+  ~A= 1100 0011   --> 195
+  ~B= 1111 0010   --> 242
+A<<2= 1111 0000
+A>>2= 0000 1111
+
+2. | or
+3. ^ xor
+4. ~ negasi
+5. <<
+6. >>
